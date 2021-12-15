@@ -54,7 +54,7 @@ dependencies {
     implementation 'io.reactivex.rxjava2:rxjava:2.1.15'
 
     // Facebook
-    implementation('com.facebook.android:facebook-android-sdk:12.0.0') {
+    implementation('com.facebook.android:facebook-android-sdk:11.0.0') {
         exclude group: 'com.android.support', module: 'support-v4'
         exclude group: 'com.android.support', module: 'appcompat-v7'
         exclude group: 'com.android.support', module: 'cardview-v7'
