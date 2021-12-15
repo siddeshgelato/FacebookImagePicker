@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookImagePicker</string>
+    <string name="label_connect_to_facebook">Connect to Facebook</string>
+    <string name="msg_please_authenticate_facebook">Please authenticate with Facebook to select files</string>
+</resources>
